@@ -1,5 +1,6 @@
 # benchmarking_LLMs_Kazakh
-[Prompts](prompts.py) - all the prompts that are used in the experimentation. \n
+[Prompts](prompts.py) - all the prompts that are used in the experimentation. 
+
 [Datasets](Datasets) - the datasets used in the experimentation in the jsonl format.
 
 | Folders  | Includes  |
